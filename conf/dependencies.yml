@@ -1,0 +1,4 @@
+self: play -> autostrip 1.0
+
+require:
+    - play
